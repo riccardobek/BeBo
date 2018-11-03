@@ -1,6 +1,7 @@
 # BeBo
-Database per un supermercato automatico creato per il corso di basi di dati presso l'Università degli studi di Padova.
+Database per una catena di supermercati automatici creato per il corso di basi di dati presso l'Università degli studi di Padova.
 
-Il progetto si propone di creare un database quanto più posibile aggioranto per una catenza di supermercati nei quali ogni possibile movimento viene tenuto sottocontrollo. Entrando nello specifico il database permette di controllare ad esempio le singole corsie, se ad esempio un cliente acquista un certo prodotto oltre allo scontrino vengono registrati anche i movimenti dallo scaffale, ovvero la riduzione  del numero di un particolare prodotto dallo scaffale che può provocare una richiesta al magazzino il tutto supervisionato da un caporeparto. Il miglioramento, se on fosse chiaro, è la possibilità di assumere un numero minore di commessi a controllo delle corsie.
+Essendo un progetto universitario con specifiche quali ad esempio <i>"presentare realtà analizzata"</i> la catena di supermercati è stata completamente inventata sebbene si ispiri alle conoscenze degli ideatori in merito ai supermercati. I dati e le informazioni inserite sono quindi inventate, ma derivano da un'opportuno studio dell'ambiente in esame.
 
-Molte altre informazioni possono essere individuate nel seguente documento: <a href="https://github.com/riccardobek/BeBo/blob/master/BeBoSupermercati.pdf">BeBoSupermercati.pdf</a>
+Le specifiche del database sono riportate nel seguente documento: <a href="https://github.com/riccardobek/BeBo/blob/master/BeBoSupermercati.pdf">BeBoSupermercati.pdf</a>
+
