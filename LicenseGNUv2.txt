@@ -1,9 +1,4 @@
-GNU GENERAL PUBLIC LICENSE
-Preamble
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-How to Apply These Terms to Your New Programs
-GNU GENERAL PUBLIC LICENSE
-Version 2, June 1991
+GNU GENERAL PUBLIC LICENSE Version 2, June 1991
 
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.  
 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
@@ -131,7 +126,7 @@ This General Public License does not permit incorporating your program into prop
 BACK TO TOP
 
 FSF FREE SOFTWARE DIRECTORY HARDWARE GNU ART GNU'S WHO? SITE MAP
- [FSF logo] “The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.”
+ [FSF logo] Â“The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.Â”
 
 The Free Software Foundation is the principal organizational sponsor of the GNU Operating System. Support GNU and the FSF by buying manuals and gear, joining the FSF as an associate member, or making a donation.
 
@@ -143,4 +138,4 @@ Copyright notice above.
 
 Copyright Infringement Notification
 
-Updated: $Date: 2017/09/04 10:21:26 $
+Updated: $Date: 2018/11/05 22:42:10 $
