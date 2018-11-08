@@ -6,5 +6,5 @@ Essendo un progetto universitario con specifiche quali ad esempio <i>"presentare
 Le specifiche del database sono riportate nel seguente documento: <a href="https://github.com/riccardobek/BeBo/blob/master/BeBoSupermercati.pdf">BeBoSupermercati.pdf</a>
 
 ## Authors
-| [Riccardo Bernucci](https://github.com/riccardobek) | Mattia Bolzonella |
+| [Riccardo Bernucci](https://github.com/riccardobek) | [Mattia Bolzonella](https://github.com/KamiShire) |
 |---|---|
